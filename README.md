@@ -1,5 +1,8 @@
 # AnkiArena
-Exploring options to build a fully featured web version of Anki.
+Exploring options to build a fully featured web version of Anki. Anki has full featured Desktop, Android, and IOS apps. It has a web app but that has many limitations. You can review cards in the web, but you can not create cards or 
+
+## Download Anki
+* https://apps.ankiweb.net
 
 ## Other Repos
 * Desktop 
@@ -11,11 +14,6 @@ Exploring options to build a fully featured web version of Anki.
 * Ios 
   - No public Repo
   - https://docs.ankimobile.net
-
-
-## Dowload Anki
-* https://apps.ankiweb.net
-
 
 ## General Anki/SRS reading
 * https://super-memory.com/articles/20rules.htm
