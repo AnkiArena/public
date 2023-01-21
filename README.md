@@ -1,6 +1,9 @@
 # AnkiArena
 Exploring options to build a fully featured web version of Anki. Anki has full featured Desktop, Android, and IOS apps. It has a web app but that has many limitations. You can review cards in the web, but you can not create cards, change decks, or do other basic operations.
 
+## Wiki
+See the [Wiki](https://github.com/AnkiArena/public/wiki) for details on features or dev choices.
+
 ## Download Anki
 * https://apps.ankiweb.net
 
